@@ -1,0 +1,13 @@
+name: mbml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip=22.0.2
+  - ipykernel
+  - pip:
+    - numpy==1.22.1
+    - pandas==1.4.0
+    - matplotlib==3.5.1
+    - scikit-image==0.19.1
