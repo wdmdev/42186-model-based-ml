@@ -11,3 +11,4 @@ dependencies:
     - pandas==1.4.0
     - matplotlib==3.5.1
     - scikit-image==0.19.1
+    - tqdm==4.62.3
