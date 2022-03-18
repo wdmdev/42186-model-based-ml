@@ -1,9 +1,8 @@
-numpy==1.22.1
-pandas==1.4.0
-matplotlib==3.5.1
-scikit-image==0.19.1
-pystan==2.19.1.1
-pyro-ppl==1.8.0
-seaborn==0.11.2
-scikit-learn==1.0.2
-tqdm==4.62.3
+pyro-ppl
+numpyro
+numpy
+matplotlib
+pystan
+seaborn
+scikit-learn
+tqdm

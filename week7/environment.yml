@@ -1,0 +1,30 @@
+name: mbml2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip=21.1.3
+  - pip:
+    -  ipykernel             == 4.10.1
+    -  ipython               == 5.5.0
+    -  ipywidgets            == 7.6.5
+    -  jupyter               == 1.0.0
+    -  libclang              == 13.0.0
+    -  librosa               == 0.8.1
+    -  numpy                 == 1.21.5
+    -  numpyro               == 0.9.1
+    -  pyro-ppl              == 1.8.0
+    -  openpyxl              == 3.0.9
+    -  pandas                == 1.3.5
+    -  plotly                == 5.5.0
+    -  pystan                == 2.19.1.1
+    -  scikit-learn          == 1.0.2
+    -  scipy                 == 1.8.0
+    -  seaborn               == 0.11.2
+    -  tensorflow            == 2.8.0
+    -  torch                 == 1.10.0
+    -  tqdm                  == 4.63.0
+    -  wheel                 == 0.37.1
+    -  xlrd                  == 1.1.0
+    -  xlwt                  == 1.3.0
+    -  zipp                  == 3.7.0

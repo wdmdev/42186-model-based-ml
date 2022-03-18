@@ -1,0 +1,1 @@
+FROM julianstastny/numpyro
